@@ -1,0 +1,45 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    
+}
+
+li {
+    float: left;
+    position: relative;
+   left: 400px;
+   font-family: sans-serif;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+
+li a:hover {
+    background-color: green;
+}
+
+body{
+    background-image: url(http://www.hengelsportdronten.nl/attachments/Header/image_0.jpg?1423640254);
+    font-family: 'Quicksand', sans-serif;
+}
+
+footer{
+position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #333;
+  text-align: center;
+}
+
+
